@@ -1,0 +1,25 @@
+body {
+background-image:url("page1/background.jpg");
+<!--color:#fff-->
+
+}
+.content {
+	width: 300px;
+	height: 440px;
+	background-color:#fff;
+	color:#3333cc;
+	text-align:center;
+	font-size: 20px;
+	margin-top: 100px;
+	margin-left: 100px;
+	<!--padding-->
+}
+.picture {
+	
+	padding-left:200px;
+	padding-bottom:400px;
+}
+h2{
+	color: #adadeb
+	<!--#739966-->
+}
